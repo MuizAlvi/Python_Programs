@@ -7,3 +7,4 @@
 5. Pyramid Problem: Create a simple program that takes the number of rows as input and prints out an astrisks pyramid.
 6. 2D Array - DS: https://www.hackerrank.com/challenges/2d-array/problem
 7. Arrays - Left Rotation: https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
+8. Anagram: https://www.hackerrank.com/challenges/anagram/problem
