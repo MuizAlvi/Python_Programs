@@ -9,3 +9,4 @@
 7. Arrays - Left Rotation: https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
 8. Anagram: https://www.hackerrank.com/challenges/anagram/problem
 9. Jack and the Skyscrapers: https://www.hackerrank.com/challenges/jim-and-the-skyscrapers/problem
+10. Simple Chess Engine: https://www.hackerrank.com/challenges/simplified-chess-engine/problem
