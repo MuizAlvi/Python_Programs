@@ -1,10 +1,15 @@
+#This program determines how many valleys a person travels through
+#The input is provided as a dingle string where a U represents a rise, and a D represents a fall
+
+#Libraries to import#
 import math
 import os
 import random
 import re
 import sys
+#####################
 
-# Complete the countingValleys function below.
+# Function which counts the Valleys traversed.
 def countingValleys(n, s):
     level=valley=0
     for i in range(n):
